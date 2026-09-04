@@ -86,6 +86,6 @@ Three dashboard types produced:
 
 **Juan Carlos Katigbak**
 
-This project was completed as part of the Post-Baccalaureate Diploma in Data Analytics at Douglas College, New Westminster, BC. All analysis, dashboard design, and data narrative were completed in Tableau.
+All analysis, dashboard design, and data narrative were completed in Tableau.
 
 [LinkedIn](https://linkedin.com/in/juan-carlos-katigbak) | [GitHub](https://github.com/juancarloskatigbak8)
