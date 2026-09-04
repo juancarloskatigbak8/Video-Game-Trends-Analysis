@@ -52,19 +52,19 @@ Three dashboard types produced:
 ## Screenshots
 
 ### Comparison Analysis Dashboard
-![Comparison Analysis Dashboard](screenshots/screenshot_comparison_dashboard.jpg)
+[Comparison Analysis Dashboard](screenshots/screenshot-comparison-dashboard.jpg)
 *Genre popularity by region and top publishers by global sales. Action dominates in North America and Europe while Japan's preference for role-playing games drives Nintendo's outsized influence among top publishers.*
 
 ---
 
 ### Time Series Analysis Dashboard
-![Time Series Analysis Dashboard](screenshots/screenshot_time_series_dashboard.jpg)
+[Time Series Analysis Dashboard](screenshots/screenshot-time-series-dashboard.jpg)
 *Platform market share across four decades and the impact of critic and user ratings on sales over time. Nintendo's sustained dominance across console generations stands out, with Grand Theft Auto V and Wii Sports anchoring the ratings-to-sales relationship.*
 
 ---
 
 ### Geo-spatial Analysis Dashboard
-![Geo-spatial Analysis Dashboard](screenshots/screenshot_geospatial_dashboard.jpg)
+[Geo-spatial Analysis Dashboard](screenshots/screenshot-geospatial-dashboard.jpg)
 *Global sales distribution by region and genre spread across continents. North America emerges as the largest contributor to global video game sales, with its cultural diversity reflected in an even spread across all genre categories.*
 
 ---
