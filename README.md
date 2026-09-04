@@ -8,7 +8,7 @@ A data visualization project analyzing over 16,000 video game titles to uncover 
 
 ## The Problem
 
-The video game industry generates billions in annual revenue across dozens of platforms, genres, and regions. Yet understanding what players actually want — and where — requires more than intuition.
+The video game industry generates billions in annual revenue across dozens of platforms, genres, and regions. Yet understanding what players actually want and where requires more than intuition.
 
 This project asks: what does 40 years of sales data tell us about how gaming preferences differ across cultures, and how platforms rise and fall over time?
 
