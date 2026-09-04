@@ -97,7 +97,15 @@ Video-Game-Trends-Analysis/
 
 ---
 
+## Acknowledgements
+
+- **Andy Bramwell** – *Discovering Hidden Trends in Global Video Games* [Data set] (Kaggle, 2020) – primary dataset source  
+  https://www.kaggle.com/datasets/thedevastator/discovering-hidden-trends-in-global-video-games
+
+---
+
 ## Author
+
 
 **Juan Carlos Katigbak**
 
