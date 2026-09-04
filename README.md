@@ -8,7 +8,7 @@ A data visualization project analyzing over 16,000 video game titles to uncover 
 
 ## The Problem
 
-The video game industry generates billions in annual revenue across dozens of platforms, genres, and regions. Yet understanding what players actually want — and where — requires more than intuition.
+The video game industry generates billions in annual revenue across dozens of platforms, genres, and regions. Yet understanding what players actually want and where requires more than intuition.
 
 This project asks: what does 40 years of sales data tell us about how gaming preferences differ across cultures, and how platforms rise and fall over time?
 
@@ -93,14 +93,14 @@ Three dashboard types produced:
 ```
 Video-Game-Trends-Analysis/
 ├── data/
-│   ├── Video_Games_Sales_as_of_12_22_2016_Dataset.csv   # Primary dataset (Kaggle)
-│   └── Developer_Location_Supplementary.xlsx            # Supplementary geo dataset
+│   ├── Video-Games-Sales-1980-to-2016.csv               # Primary dataset (Kaggle)
+│   └── Developer-Location-Supplementary.xlsx            # Supplementary geo dataset
 ├── screenshots/
 │   ├── screenshot_comparison_dashboard.jpg              # Comparison Analysis Dashboard
 │   ├── screenshot_time_series_dashboard.jpg             # Time Series Analysis Dashboard
 │   └── screenshot_geospatial_dashboard.jpg              # Geo-spatial Analysis Dashboard
-├── Super_Final_Term_Project.twbx                        # Tableau workbook
-├── VIDEO_GAME_TRENDS.pdf                                # Full presentation deck
+├── Video-Game-Trends-Tableau.twbx                       # Tableau workbook
+├── Video-Game-Trends.pdf                                # Full presentation deck
 └── README.md
 ```
 
