@@ -40,7 +40,7 @@ A supplementary dataset was built to add publisher and developer location data (
 
 ## Tool Used
 
-**Tableau** — all dashboards, charts, and visualizations built in Tableau Desktop.
+**Tableau**: all dashboards, charts, and visualizations built in Tableau Desktop.
 
 Three dashboard types produced:
 - Comparison Analysis Dashboard
