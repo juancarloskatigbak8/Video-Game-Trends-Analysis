@@ -52,13 +52,13 @@ Three dashboard types produced:
 ## Screenshots
 
 ### 1. Comparison Analysis Dashboard
-![Comparison Analysis Dashboard](screenshots/screenshot_comparison_dashboard.jpg)
+[Comparison Analysis Dashboard](screenshots/screenshot_comparison_dashboard.jpg)
 
 ### 2. Time Series Analysis Dashboard
-![Time Series Analysis Dashboard](screenshots/screenshot_time_series_dashboard.jpg)
+[Time Series Analysis Dashboard](screenshots/screenshot_time_series_dashboard.jpg)
 
 ### 3. Geo-spatial Analysis Dashboard
-![Geo-spatial Analysis Dashboard](screenshots/screenshot_geospatial_dashboard.jpg)
+[Geo-spatial Analysis Dashboard](screenshots/screenshot_geospatial_dashboard.jpg)
 
 ---
 
