@@ -29,7 +29,7 @@ This project asks: what does 40 years of sales data tell us about how gaming pre
 
 | Field | Detail |
 |---|---|
-| Source | Kaggle — Video Game Sales Dataset |
+| Source | Kaggle: Video Game Sales Dataset |
 | Records | 16,720 video game titles |
 | Coverage | 1980 to December 2016 |
 | Fields | Game title, platform, year of release, genre, publisher, regional sales (NA, EU, JP, Other), global sales, critic score, critic count, user score, user count, developer, content rating |
